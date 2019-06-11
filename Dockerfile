@@ -1,1 +1,1 @@
-from rancher/longhorn-manager:v0.5.0
+FROM rancher/longhorn-manager:v0.5.0
